@@ -1,5 +1,6 @@
 ;(function ($, window, document, undefined){
-
+	"use strict";
+	
 	// 기본갑
 	var pluginName = 'address',
 		defaults = {
