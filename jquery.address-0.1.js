@@ -13,7 +13,7 @@
 
 		this.options = $.extend({}, defaults, options);
 		this._defaults = defaults;
-		this._name = plginName;
+		this._name = pluginName;
 
 		this.init();
 		
